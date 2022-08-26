@@ -37,8 +37,8 @@ Presentations and videos can be downloaded from here: https://disk.yandex.ru/d/f
 | 9  | 2022-11-11 | Bayes approach, EM | TBA | - |
 | 10 | 2022-11-18 | Clustering| TBA| HW#5 |
 | 11 | 2022-11-25 | Ranking | TBA | - |
-| 12 | 2022-12-02 | Gradient Boosting | No seminar here | - |
-| 13 | 2022-12-09| No Lecture Here | HW#5 kaggle winners | - |
+| 12 | 2022-12-02 | Gradient Boosting | TBA | - |
+| 13 | 2022-12-09| No Lecture Here | TBA | - |
 
 
 # Homeworks and deadlines
