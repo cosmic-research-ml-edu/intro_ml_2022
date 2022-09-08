@@ -28,8 +28,8 @@ Presentations and videos can be downloaded from here: https://disk.yandex.ru/d/f
 | -- | ---- | ------- | ------- | -------- |
 | 1  | 2022-09-09 | Introduction to the topic | How to manage this course | HW#1 |
 | 2  | 2022-09-16 | Metric Algorithms, kNN | Classification Quality Metrics | - |
-| 3  | 2022-09-23 | Decision Trees | How to tune hyperparameters| - |
-| 4  | 2022-09-30 | Linear Models | Invited speaker: TBA | HW#2 |
+| 3  | 2022-09-23 | Decision Trees | How to tune hyperparameters | - |
+| 4  | 2022-09-30 | Linear Models | Invited speaker: Intro to Data Visualization | HW#2 |
 | 5  | 2022-10-07 | SVM | PCA and SVD | - |
 | 6  | 2022-10-14 | Regularized Linear Models | TBA | HW#3 |
 | 7  | 2022-10-21 | Time Series | TBA | - |
