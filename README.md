@@ -32,7 +32,7 @@ Presentations and videos can be downloaded from here: https://disk.yandex.ru/d/f
 | 4  | 2022-09-30 | Linear Models | Invited speaker: Intro to Data Visualization | HW#2 |
 | 5  | 2022-10-07 | SVM | PCA and SVD | - |
 | 6  | 2022-10-14 | Regularized Linear Models | Invited Speaker: A/B Tests and Metrics  | HW#3 |
-| 7  | 2022-10-21 | Time Series | Practical Analytics: how to spot that smth goes wrong | - |
+| 7  | 2022-10-21 | Time Series | Practical Analytics: when to alert | - |
 | 8  | 2022-10-28| Text Classification | TBA | HW#4 |
 | 9  | 2022-11-11 | Bayes approach, EM | TBA | - |
 | 10 | 2022-11-18 | Clustering| TBA| HW#5 |
