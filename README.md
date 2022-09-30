@@ -31,8 +31,8 @@ Presentations and videos can be downloaded from here: https://disk.yandex.ru/d/f
 | 3  | 2022-09-23 | Decision Trees | How to tune hyperparameters | - |
 | 4  | 2022-09-30 | Linear Models | Invited speaker: Intro to Data Visualization | HW#2 |
 | 5  | 2022-10-07 | SVM | PCA and SVD | - |
-| 6  | 2022-10-14 | Regularized Linear Models | TBA | HW#3 |
-| 7  | 2022-10-21 | Time Series | TBA | - |
+| 6  | 2022-10-14 | Regularized Linear Models | Invited Speaker: A/B Tests and Metrics  | HW#3 |
+| 7  | 2022-10-21 | Time Series | Practical Analytics: when to alert | - |
 | 8  | 2022-10-28| Text Classification | TBA | HW#4 |
 | 9  | 2022-11-11 | Bayes approach, EM | TBA | - |
 | 10 | 2022-11-18 | Clustering| TBA| HW#5 |
@@ -46,14 +46,14 @@ Each homework has its deadline. Submission after deadline will reduce points.
 
 | #   | Name | Date Published | Deadline |  Link |
 | --- | ---- | -------------- | -------- | -- |
-| 1  | HW#1 | 2022-09-09 | 2022-09-09 23:00:00 +03:00 | |
+| 1  | HW#1 | 2022-09-09 | 2022-10-06 23:00:00 +03:00 | https://github.com/cosmic-research-ml-edu/intro_ml_2022/blob/main/homeworks/hw01/lab01.ipynb |
 | 2  | HW#2 | 2022-09-30 | 2022-09-30 23:00:00 +03:00 | |
 | 3  | HW#3 | 2022-10-14 | 2022-10-14 23:00:00 +03:00 | |
 | 4  | HW#4 | 2022-10-28 | 2022-10-28 23:00:00 +03:00 | |
 | 5  | HW#5 | 2022-11-18 | 2022-11-18 23:00:00 +03:00 | |
 
 ## Late Submission Discounts:
-- Deadlines: HW#1 - 2 weeks, HW#2 and HW#4 - 3 weeks
+- Deadlines: HW#1, HW#2 and HW#4 - 3 weeks
 - Submission after the deadline: each score is multiplied by 0.5
 - Late submissions are not allowed in HW#3 and HW#5
 - Submission rules for HW#3: 10 days to beat the baseline, 10 days to get your best score. No late submissions
