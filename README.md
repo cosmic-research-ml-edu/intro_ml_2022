@@ -48,7 +48,7 @@ Each homework has its deadline. Submission after deadline will reduce points.
 | --- | ---- | -------------- | -------- | -- |
 | 1  | HW#1 | 2022-09-09 | 2022-10-06 23:00:00 +03:00 | https://github.com/cosmic-research-ml-edu/intro_ml_2022/blob/main/homeworks/hw01/lab01.ipynb |
 | 2  | HW#2 | 2022-09-30 | 2022-10-20 23:00:00 +03:00 | https://github.com/cosmic-research-ml-edu/intro_ml_2022/blob/main/homeworks/hw02/lab02.ipynb |
-| 3  | HW#3 | 2022-10-14 | 2022-10-14 23:00:00 +03:00 | |
+| 3  | HW#3 | 2022-10-14 | 2022-10-24 23:00:00 +03:00 / 2022-11-03 23:00:00 +03:00 | |
 | 4  | HW#4 | 2022-10-28 | 2022-10-28 23:00:00 +03:00 | |
 | 5  | HW#5 | 2022-11-18 | 2022-11-18 23:00:00 +03:00 | |
 
