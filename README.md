@@ -48,30 +48,13 @@ Each homework has its deadline. Submission after deadline will reduce points.
 | --- | ---- | -------------- | -------- | -- |
 | 1  | HW#1 | 2022-09-09 | 2022-10-06 23:00:00 +03:00 | https://github.com/cosmic-research-ml-edu/intro_ml_2022/blob/main/homeworks/hw01/lab01.ipynb |
 | 2  | HW#2 | 2022-09-30 | 2022-10-20 23:00:00 +03:00 | https://github.com/cosmic-research-ml-edu/intro_ml_2022/blob/main/homeworks/hw02/lab02.ipynb |
-| 3  | HW#3 | 2022-10-14 | 2022-10-24 23:00:00 +03:00 / 2022-11-03 23:00:00 +03:00 | [[kaggle]](https://www.kaggle.com/t/11956086d5384b8ea608f7c12ce7c3d7)  - https://github.com/cosmic-research-ml-edu/intro_ml_2022/tree/main/homeworks/hw03 |
+| 3  | HW#3 | 2022-10-14 | 2022-11-03 23:00:00 +03:00 | https://github.com/cosmic-research-ml-edu/intro_ml_2022/blob/main/homeworks/hw03/lab03.ipynb |
 | 4  | HW#4 | 2022-10-28 | 2022-10-28 23:00:00 +03:00 | |
 | 5  | HW#5 | 2022-11-18 | 2022-11-18 23:00:00 +03:00 | |
 
 ## Late Submission Discounts:
-- Deadlines: HW#1, HW#2 and HW#4 - 3 weeks
 - Submission after the deadline: each score is multiplied by 0.5
-- Late submissions are not allowed in HW#3 and HW#5
-- Submission rules for HW#3: 10 days to beat the baseline, 10 days to get your best score. No late submissions
-- Submission rules for HW#5: 10 days to beat the baseline, 10 days to get your best score. No late submissions
 
-
-## HW#3 and HW#5 points
-- Everyone starts with **0**.
-- Beating Baseline before Medium Deadline **+5**
-- 1st place **+17**
-- 2nd place **+15**
-- 3rd place **+13**
-- Places 4-6 **+10**
-- Places 7-9 **+9**
-- Places 10-12 **+8**
-- Places 13-15 **+7**
-- Places 16-18 **+6**
-- And so on
 
 ## Acknowledgements
 
