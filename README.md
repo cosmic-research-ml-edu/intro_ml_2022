@@ -33,16 +33,17 @@ Presentations and videos can be downloaded from here: https://disk.yandex.ru/d/f
 | 5  | 2022-10-07 | SVM | PCA and SVD | - |
 | 6  | 2022-10-14 | Regularized Linear Models | Invited Speaker: A/B Tests and Metrics  | HW#3 |
 | 7  | 2022-10-21 | Time Series | Practical Analytics: when to alert | - |
-| 8  | 2022-10-28| Text Classification | TBA | HW#4 |
-| 9  | 2022-11-11 | Bayes approach, EM | TBA | - |
-| 10 | 2022-11-18 | Clustering| TBA| HW#5 |
+| 8  | 2022-10-28| Text Classification | Practical Analytics: SQL | HW#4 |
+| 9  | 2022-11-11 | Bayes approach, EM | Practical Analytics | - |
+| 10 | 2022-11-18 | Clustering| Invited Speaker: Seismic Fault Detection | HW#5 |
 | 11 | 2022-11-25 | Ranking | TBA | - |
 | 12 | 2022-12-02 | Gradient Boosting | TBA | - |
 | 13 | 2022-12-09| No Lecture Here | TBA | - |
 
 
 # Homeworks and deadlines
-Each homework has its deadline. Submission after deadline will reduce points.
+- Each homework has its deadline. Submission after deadline will reduce points
+- Submission after the deadline: each score is multiplied by 0.5
 
 | #   | Name | Date Published | Deadline |  Link |
 | --- | ---- | -------------- | -------- | -- |
@@ -51,9 +52,6 @@ Each homework has its deadline. Submission after deadline will reduce points.
 | 3  | HW#3 | 2022-10-14 | 2022-11-03 23:00:00 +03:00 | https://github.com/cosmic-research-ml-edu/intro_ml_2022/blob/main/homeworks/hw03/lab03.ipynb |
 | 4  | HW#4 | 2022-10-28 | 2022-10-28 23:00:00 +03:00 | |
 | 5  | HW#5 | 2022-11-18 | 2022-11-18 23:00:00 +03:00 | |
-
-## Late Submission Discounts:
-- Submission after the deadline: each score is multiplied by 0.5
 
 
 ## Acknowledgements
