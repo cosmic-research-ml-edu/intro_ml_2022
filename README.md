@@ -22,7 +22,7 @@ The timetable may be change.
 - Lectures: 09:00 - 10:20 (UTC+3, Europe/Moscow)
 - Seminars: 10:40 - 12:00 (UTC+3, Europe/Moscow)
 
-Presentations and videos can be downloaded from here: https://disk.yandex.ru/d/ftlAXAWOxYqxnw
+Presentations and videos can be downloaded from here: https://disk.yandex.ru/d/ttnWpSXcSvmAtA
 
 | #  | Date | Lecture | Seminar | Homework |
 | -- | ---- | ------- | ------- | -------- |
